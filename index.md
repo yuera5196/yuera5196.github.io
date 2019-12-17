@@ -8,7 +8,7 @@ title: 执迷
 - Phone: **+86 13627670561**
 - E-mail:
   - **liyuera@qq.com**
-- WeChat: **yurea**
+- WeChat: **yuera**
 - QQ: **1635662331**
 - Blog: **<https://yuera5196.github.io>**
 
