@@ -4,8 +4,8 @@ title: 星合の空
 ---
 ## Contact
 
-- Address: **Sun Yat-sen University - 132 Waihuan East Rd. - Guangzhou, China**
-- Phone: **+86 18756280097**
+- Address: ** - Chongqing, China**
+- Phone: **+86 13627670561**
 - E-mail:
   - **liyuera@qq.com**
 - WeChat: **yurea**
