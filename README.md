@@ -42,28 +42,10 @@ Live2D来自于[stevenjoezhang/live2d-widget](https://github.com/stevenjoezhang/
 
 ## Feature/Todo
 
-从[这个页面](https://magical-girl.site/)得到的灵感，目标是博客上除了文章和作为导航的Live2D之外尽量不出现其他的模块。
+博客基于[这个页面](https://wu-kan.github.io)，目标是使用vue重构博客，todo内容会逐渐增加，目前只有现在正在做的
 
-- [x] 完成博客文章标签页
-- [ ] 完成博客文章分类页（分类暂时和标签没区别）
-- [ ] 重写博客首页，做一个有意思的封面
-- [x] 加入评论系统，暂时考虑用valine+leancloud实现
-  - [x] 基于valine的阅读量统计
-- [x] 不蒜子统计
-- [x] [<i class="fab fa-font-awesome"></i>fontawesome-free](https://fontawesome.com/)
-- [x] 全站搜索
-- [x] [ribbon动态背景](https://github.com/hustcc/ribbon.js)
-- [x] 调整代码块风格，并加上代码选中按钮
-- [x] 加入可以自动展开、标号的目录
-  - [x] 目录标号
-  - [ ] 自动展开
-- [x] mermaid
-  - [x] Markdown代码扩展
-- [x] $\KaTeX$
-- [x] Live2D
-  - [x] 加上切换Live2D显示/关闭的按钮
-  - [ ] 使用自己搭建的Live2D后端API
-    - [ ] 收集一些Live2D Model
+- [ ] 完成博客动态背景
+
 
 ## 初心
 
