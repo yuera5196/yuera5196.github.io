@@ -78,5 +78,5 @@ Live2D来自于[stevenjoezhang/live2d-widget](https://github.com/stevenjoezhang/
 
 ### 2020-01-03 v2.0.1
 
-- 使用vue生成动态星空背景特效
+- 生成动态星空背景特效
 

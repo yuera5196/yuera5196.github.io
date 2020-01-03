@@ -16,5 +16,5 @@ title: 执迷
 
 - **微信小程序**, Familiar
 - **支付宝小程序**, Familiar
-	- **刷脸支付**, Familiar
+	- **IOT刷脸支付**, Familiar
 - **vue**, Familiar
