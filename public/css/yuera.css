@@ -16,12 +16,13 @@
   font-family: Menlo, Monaco, "Courier New", Microsoft JhengHei Light, monospace;
 }*/
 html{
-  height:100%;
+  min-height:100%;
 }
 body{
   background: radial-gradient(200% 100% at bottom center,#f7f7b6,#e96f92,#1b2947),
               radial-gradient(220% 100% at top center,#1b2947 10%,#75517b 40%,#e96f92 65%,#f7f7b6),
               fixed;
+  background-size: 100% 100%;
   background-repeat: no-repeat;
   overflow: hidden;
 }
